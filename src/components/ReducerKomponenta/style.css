@@ -1,0 +1,17 @@
+.holka {
+  border: 5px solid rgb(167, 10, 130);
+  padding: 3px;
+  margin-bottom: 20px;
+}
+
+.kluk {
+  border: 5px solid rgb(10, 81, 167);
+  padding: 3px;
+  margin-bottom: 20px;
+}
+
+
+.soucet {
+  border: 5px solid rgb(20, 167, 10);
+  padding: 3px;
+}
