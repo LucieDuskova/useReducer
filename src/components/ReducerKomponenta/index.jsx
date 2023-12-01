@@ -2,8 +2,6 @@ import './style.css';
 import { useReducer } from 'react';
 
 
-
-
 const reducer = (state, action) =>{
   if (action.type === 'ADD_HOLKA') {
     const newTextHolka = 'Už jsi klikla';
